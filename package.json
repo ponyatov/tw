@@ -1,0 +1,15 @@
+{
+  "name": "tw",
+  "version": "0.0.1",
+  "description": "Twitch/API programmer stream tool",
+  "main": "src/tw.js",
+  "directories": {
+    "doc": "doc",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dmitry Ponyatov <dponyatov@gmail.com>",
+  "license": "MIT"
+}
